@@ -151,7 +151,7 @@ const SupermarketAnalytics = () => {
 
       {/* Footer */}
       <div className="flex items-center gap-2 text-sm text-gray-500">
-        <Clock className="w-4 h-4" />
+        <Clock className="w-4 h-4 " />
         <span>Data updates every 5 seconds</span>
       </div>
     </div>
